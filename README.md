@@ -1,5 +1,5 @@
 # GAN-Logo-
-Using GANS to create Logos
+Using Generative Adverserial Networks to create Logos.
 
 This is a project which involves training different GANS to generate LOGOs. The various methods that were tried out were : 
 - Gradient Penalty
